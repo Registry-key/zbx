@@ -18,16 +18,16 @@ excerpt_separator: <!-- more -->
 
 footer-links:
   zhihu: 
-  email: xiongyunhan@outlook.com
+  email: chy_100719@outlook.com
   facebook:
-  github: pianfan
+  github: Registry_key
   rss: # just type anything here for a working RSS icon
   twitter: 
   youtube:
 
-footer-text: Copyright (c) 2024 Pianfan
+footer-text: Copyright (c) 2024 Registry-key
 
-url: https://pianfan.github.io
+url: https://github.com/Registry-key
 
 permalink: /:title/
 paginate_path: /page:num/
