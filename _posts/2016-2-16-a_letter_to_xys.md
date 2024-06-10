@@ -7,6 +7,9 @@ comments: true
 author: Vichar_rk
 ---
 
+
+![](https://img.picui.cn/free/2024/06/10/66671b1b43a1e.jpg)
+
 xys，我好喜欢你呀。。。
 
 #### 可以做我女朋友吗？
@@ -21,4 +24,3 @@ xys，我好喜欢你呀。。。
 
 From zbx.
 
-![](https://img.picui.cn/free/2024/06/10/66671b1b43a1e.jpg)
