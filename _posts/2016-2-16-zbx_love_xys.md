@@ -7,7 +7,5 @@ comments: true
 author: Vichar_rk
 ---
 
-### 是合照哩hhh
-
-![](https://img.picui.cn/free/2024/06/09/66659f9dea369.png)
+### 桑桑我喜欢你哟
 
